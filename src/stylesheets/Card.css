@@ -1,0 +1,18 @@
+.cardImage {
+  /*min-height: 0;
+  height: 400px;
+  width: 260px;
+  position: relative;
+  display: inline-flex;*/
+  padding: 5px;
+  transition: transform .4s; 
+  width: 260px;
+  height: 400px;
+  display: inline-flex;
+  position: relative;
+  min-height: 0;
+}
+
+.cardImage:hover {
+  transform: scale(1.05);
+}

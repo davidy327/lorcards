@@ -1,0 +1,20 @@
+html, body {
+    background-color: #353535;
+}
+
+body {
+    font-family: 'Kulim Park', sans-serif;
+}
+
+.origins {
+    height: 80%;
+}
+.group {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+}
+
+.caption {
+    display: block;
+}
