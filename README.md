@@ -1,7 +1,8 @@
 ## About
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Display all of the current set 1 Legends of Runeterra cards.
-Status: Under development.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br/>
+Display all of the current set 1 Legends of Runeterra cards.<br/>
+Link: lorcards.xyz <br/>
+Status: Under development.<br/>
 ## Available Scripts
 
 In the project directory, you can run:
